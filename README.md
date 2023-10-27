@@ -3,4 +3,4 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=olimpiu98&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olimpiu98&label=Profile%20views&color=0e75b6&style=flat" alt="olimpiu98" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=olimpiu98&label=Profile%20views&color=0e75b6&style=flat" alt="olimpiu98" />
